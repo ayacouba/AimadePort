@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AimadePort/static/css/main.308387d7.css",
+    "main.js": "/AimadePort/static/js/main.05e4c1c7.js",
+    "static/js/787.128fc6e9.chunk.js": "/AimadePort/static/js/787.128fc6e9.chunk.js",
+    "static/media/Profile.png": "/AimadePort/static/media/Profile.6d85bbbe8ad8a728d620.png",
+    "static/media/mind-body.png": "/AimadePort/static/media/mind-body.26257556af826109746f.png",
+    "static/media/FilmFinder.png": "/AimadePort/static/media/FilmFinder.ac2aaf5aea88e862ff7a.png",
+    "static/media/portpic.png": "/AimadePort/static/media/portpic.54af11fba4e0d0c8cb54.png",
+    "static/media/Burtons.otf": "/AimadePort/static/media/Burtons.c46a2405716f236c4a9a.otf",
+    "index.html": "/AimadePort/index.html",
+    "main.308387d7.css.map": "/AimadePort/static/css/main.308387d7.css.map",
+    "main.05e4c1c7.js.map": "/AimadePort/static/js/main.05e4c1c7.js.map",
+    "787.128fc6e9.chunk.js.map": "/AimadePort/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.308387d7.css",
+    "static/js/main.05e4c1c7.js"
+  ]
+}
